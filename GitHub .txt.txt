@@ -15,3 +15,12 @@ IV->Efficent Handlig of large project
 4.What is GitHub?
 ->
 
+
+Add file into git repo
+
+
+git init
+git add . or git add -A
+git status
+git commit -m "Massage..."
+git push
